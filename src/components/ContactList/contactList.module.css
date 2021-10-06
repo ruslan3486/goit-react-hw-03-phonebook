@@ -1,0 +1,19 @@
+.list {
+  margin-top: 30px;
+  color: rgb(134, 33, 230);
+  font-weight: 500;
+  font-size: 18px;
+}
+.text_item {
+  display: flex;
+  justify-content: space-between;
+}
+.text_delete {
+  background-color: #4caf50; /* Green */
+
+  color: white;
+
+  text-align: center;
+
+  font-size: 16px;
+}

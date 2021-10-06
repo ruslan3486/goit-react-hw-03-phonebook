@@ -1,0 +1,21 @@
+.filter_text {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(
+    255,
+    0,
+    0,
+    0.996
+  ); /* для Webkit цвета следует преобразовать в rgb(a) */
+  color: rgba(255, 255, 255, 0.996);
+  height: 20px;
+}
+.container_filter {
+  display: flex;
+
+  align-items: center;
+}
+.filter_info {
+  font-size: 20px;
+  color: rgb(16, 77, 77);
+}
